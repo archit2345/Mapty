@@ -10,6 +10,7 @@
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 - [Contributing](#contributing)
+- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Description
